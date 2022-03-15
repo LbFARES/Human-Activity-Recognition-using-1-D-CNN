@@ -1,0 +1,1 @@
+# Human-Activity-Recognition-using-1-D-CNN
